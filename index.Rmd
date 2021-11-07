@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+__author__ : __Nivedhitha__
 output:
   html_document:
     theme: cosmo

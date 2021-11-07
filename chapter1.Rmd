@@ -1,7 +1,10 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+  This is exiting course and I am happy to be part of it.  
+  Always wanted to learn and script R using _RMarkdown_ and this is one great platform I feel.  
+  **Joining from UEF**
+[link](https://github.com/nivedhithaajith/IODS-project)
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
